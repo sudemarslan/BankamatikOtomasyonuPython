@@ -13,6 +13,7 @@ Python ile geliştirilmiş, konsol tabanlı basit bir banka/ATM otomasyon sistem
 - Tüm işlemlerin bir metin dosyasında kalıcı olarak saklanması
 
 Kullanılan teknolojiler
+
 -Python 3
 -Dosya G/Ç (open, okuma/yazma)
 -Veri yapıları: dict, set

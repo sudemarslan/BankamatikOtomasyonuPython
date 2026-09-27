@@ -16,4 +16,5 @@ Kullanılan teknolojiler
 
 -Python 3
 -Dosya G/Ç (open, okuma/yazma)
+
 -Veri yapıları: dict, set
